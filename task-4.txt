@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mariyammal A - Web Developer</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f8f9fa;
+      color: #343a40;
+    }
+
+    header {
+      background-color: #007bff;
+      color: #fff;
+      text-align: center;
+      padding: 50px 0;
+    }
+
+    header h1 {
+      font-size: 3em;
+      margin-bottom: 10px;
+    }
+
+    header p {
+      font-size: 1.5em;
+    }
+
+    section {
+      padding: 50px;
+      text-align: center;
+    }
+
+    h2 {
+      color: #007bff;
+    }
+
+    p {
+      font-size: 1.1em;
+    }
+
+    #contact p {
+      margin-bottom: 20px;
+    }
+
+    footer {
+      background-color: #343a40;
+      color: #fff;
+      text-align: center;
+      padding: 20px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Mariyammal A</h1>
+    <p>Web Developer</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Your background, education, and professional experience go here. Highlight your skills and expertise in web development.</p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <p>List your skills here, such as HTML, CSS, JavaScript, and any other relevant technologies. Showcase your proficiency and expertise.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <p>Description of your projects. Showcase your creativity, innovation, and impact of each project.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Connect with me! Provide your email, social media links, or any other contact information. Encourage visitors to reach out for collaboration or inquiries.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Mariyammal A - Web Developer. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
